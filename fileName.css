@@ -2,3 +2,16 @@
   margin: 0;
   padding: 0;
 }
+body{
+  color: #333;
+  background: #fff;
+}
+a{
+  text-decoration: none;
+}
+button{
+  border: solid 1px #dddd;
+}
+ul{
+  margin-bottom: 0;
+}

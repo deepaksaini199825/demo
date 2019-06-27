@@ -1,1 +1,3 @@
-Hello World
+<nul (set/p z=hello) >out.txt
+<nul (set/p z= world!) >>out.txt
+dir out.txt
