@@ -1,0 +1,151 @@
+[33mcommit ce552b783887528b690d91a1d7dd80520b91810b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: deepaksaini199825 <deepak.saini@netprophetsglobal.com>
+Date:   Thu Jun 27 18:06:52 2019 +0530
+
+    add new save file and change in README.md file
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 019e0cb..9093943 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,6 @@[m
+ # This is only for learning the purpose[m
+[32m+[m[32m# Hello World[m
+[32m+[m[32m# Hello World[m
+[32m+[m[32m# Hello World[m
+[32m+[m[32m# Hello World[m
+ # Hello World[m
+\ No newline at end of file[m
+[1mdiff --git a/save.txt b/save.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..069143e[m
+[1m--- /dev/null[m
+[1m+++ b/save.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mSave the world.[m
+[32m+[m[32mJHellidv vl dv[m
+\ No newline at end of file[m
+
+[33mcommit 66edf01a54d77444559c9d6b247c5fd5a31c5724[m
+Author: deepaksaini199825 <deepak.saini@netprophetsglobal.com>
+Date:   Thu Jun 27 16:59:08 2019 +0530
+
+    d
+
+[1mdiff --git a/Empty.txt b/Empty.txt[m
+[1mindex e69de29..4ff029a 100644[m
+[1m--- a/Empty.txt[m
+[1m+++ b/Empty.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mDash[m
+\ No newline at end of file[m
+[1mdiff --git a/EmptyFile.txt b/EmptyFile.txt[m
+[1mindex e69de29..f10d014 100644[m
+[1m--- a/EmptyFile.txt[m
+[1m+++ b/EmptyFile.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mDeepak Saini | 9756815525[m
+\ No newline at end of file[m
+[1mdiff --git a/EmptyFiles.txt b/EmptyFiles.txt[m
+[1mindex 5e1c309..c341397 100644[m
+[1m--- a/EmptyFiles.txt[m
+[1m+++ b/EmptyFiles.txt[m
+[36m@@ -1 +1,3 @@[m
+[31m-Hello World[m
+\ No newline at end of file[m
+[32m+[m[32m<nul (set/p z=hello) >out.txt[m
+[32m+[m[32m<nul (set/p z= world!) >>out.txt[m
+[32m+[m[32mdir out.txt[m
+\ No newline at end of file[m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex df73df8..019e0cb 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,2 @@[m
+ # This is only for learning the purpose[m
+[32m+[m[32m# Hello World[m
+\ No newline at end of file[m
+[1mdiff --git a/fileName.css b/fileName.css[m
+[1mindex 4d99426..40ec04c 100644[m
+[1m--- a/fileName.css[m
+[1m+++ b/fileName.css[m
+[36m@@ -1,4 +1,17 @@[m
+ *{[m
+   margin: 0;[m
+   padding: 0;[m
+[31m-}[m
+\ No newline at end of file[m
+[32m+[m[32m}[m
+[32m+[m[32mbody{[m
+[32m+[m[32m  color: #333;[m
+[32m+[m[32m  background: #fff;[m
+[32m+[m[32m}[m
+[32m+[m[32ma{[m
+[32m+[m[32m  text-decoration: none;[m
+[32m+[m[32m}[m
+[32m+[m[32mbutton{[m
+[32m+[m[32m  border: solid 1px #dddd;[m
+[32m+[m[32m}[m
+[32m+[m[32mul{[m
+[32m+[m[32m  margin-bottom: 0;[m
+[32m+[m[32m}[m
+[1mdiff --git a/nul b/order.html[m
+[1msimilarity index 100%[m
+[1mrename from nul[m
+[1mrename to order.html[m
+[1mdiff --git a/order1.txt b/order1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 837b028bd692900a0280c52e4ca63b195be56bca[m
+Author: DeepakSaini25 <deepak.saini@netprophetsglobal.com>
+Date:   Thu Jun 27 13:16:46 2019 +0530
+
+    d
+
+[1mdiff --git a/Empty.txt b/Empty.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/EmptyFile.txt b/EmptyFile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/EmptyFiles.txt b/EmptyFiles.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5e1c309[m
+[1m--- /dev/null[m
+[1m+++ b/EmptyFiles.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mHello World[m
+\ No newline at end of file[m
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..df73df8[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m# This is only for learning the purpose[m
+[1mdiff --git a/demo.txt b/demo.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/fileName.css b/fileName.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4d99426[m
+[1m--- /dev/null[m
+[1m+++ b/fileName.css[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32m*{[m
+[32m+[m[32m  margin: 0;[m
+[32m+[m[32m  padding: 0;[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/nul b/nul[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/text.txt b/text.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5e1c309[m
+[1m--- /dev/null[m
+[1m+++ b/text.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mHello World[m
+\ No newline at end of file[m
